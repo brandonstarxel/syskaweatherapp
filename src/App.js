@@ -22,7 +22,7 @@ function App() {
       path: "results",
       element: <Results />,
     },
-  ]);
+  ], {basename: '/syskaweatherapp'});
 
   return (
     <div className='App'>
