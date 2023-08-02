@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/syskaweatherapp/static/css/main.10b70060.css",
+    "main.js": "/syskaweatherapp/static/js/main.61fb88cb.js",
+    "static/js/787.3722ac67.chunk.js": "/syskaweatherapp/static/js/787.3722ac67.chunk.js",
+    "index.html": "/syskaweatherapp/index.html",
+    "main.10b70060.css.map": "/syskaweatherapp/static/css/main.10b70060.css.map",
+    "main.61fb88cb.js.map": "/syskaweatherapp/static/js/main.61fb88cb.js.map",
+    "787.3722ac67.chunk.js.map": "/syskaweatherapp/static/js/787.3722ac67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b70060.css",
+    "static/js/main.61fb88cb.js"
+  ]
+}
