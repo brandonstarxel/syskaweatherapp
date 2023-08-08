@@ -12,7 +12,7 @@ function Results(props) {
     const [progress, setProgress] = useState(0);
     const [data, setData] = useState(null);
 
-    const baseURL = 'https://63.34.6.55';
+    const baseURL = 'https://20.124.240.9';
     // const baseURL = 'http://localhost:105';
 
     useEffect(() => {
